@@ -1,1 +1,1 @@
-# Learn the courses on deeplearning.ai
+# Learn the courses on deeplearning.ai and coursera
